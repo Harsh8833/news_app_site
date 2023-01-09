@@ -26,6 +26,12 @@ You can also download a ZIP file containing code including .git files:
   <img src="https://github.com/Harsh8833/news_app_site/raw/main/screenshot1.jpeg" alt="Screenshot 4" width="200" height="400">
 </div>
 
+## Screen Record
+
+https://user-images.githubusercontent.com/90051370/211255071-be4300de-9b0f-49d2-ba0a-25032d82985e.mp4
+
+
+
 ## About
 * Harsh Raj
 * harsh.raj8833@gmail.com
