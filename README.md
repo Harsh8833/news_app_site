@@ -6,11 +6,11 @@ As per the assignment I've Developed an android application using https://newsap
 
 You can download the APK from the following button:
 
-[![Download APK](https://img.shields.io/badge/download-APK-green.svg)(https://raw.githubusercontent.com/Harsh8833/news_app_site/main/News%20App.apk)
+[![Download APK](https://img.shields.io/badge/download-APK-green.svg)](https://raw.githubusercontent.com/Harsh8833/news_app_site/main/News%20App.apk)
 
 You can also download a ZIP file containing code including .git files:
 
-[![Download ZIP](https://drive.google.com/file/d/17wHU92rG0UGyNQzGuRmTNODLKG6xuHNt/view?usp=share_link)
+[![Download ZIP](https://img.shields.io/badge/download-ZIP-blue.svg)](https://drive.google.com/file/d/17wHU92rG0UGyNQzGuRmTNODLKG6xuHNt/view?usp=share_link)
 
 ## Additional Features
 * Shimmer Loading Effect
